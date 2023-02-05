@@ -19,7 +19,7 @@ def main(vac=4,num=10):
 	for i in L1:
 		L2 = L2 + ',' +dict[i]
 
-	print('请写一篇{}个词的英文文章，包含以下单词：{}。并翻译成中文'.format(num*20,L2[1:]))
+	print('请写一篇{}个词以内的英文文章，包含以下单词：{}，然后翻译成中文'.format(num*20,L2[1:]))
 
 if __name__ == '__main__':
 	main()
