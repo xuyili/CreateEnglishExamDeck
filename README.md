@@ -12,11 +12,11 @@
 
 每次可以选择指定数量的单词，程序随机从词库里抽取，输出的句子可以贴到ChatGPT中使用并生成短文。
 
-![image-20230205212501829](E:\CreateEnglishExamDeck\assets\image-20230205212501829.png)
+![image-20230205212501829](https://github.com/xuyili/CreateEnglishExamDeck/blob/main/assets/d4f4d7329e4ac30a7cbab31a67b29e4.png)
 
 
 
-![d4f4d7329e4ac30a7cbab31a67b29e4](E:\CreateEnglishExamDeck\assets\d4f4d7329e4ac30a7cbab31a67b29e4.png)
+![d4f4d7329e4ac30a7cbab31a67b29e4](https://github.com/xuyili/CreateEnglishExamDeck/blob/main/assets/image-20230205212501829.png)
 
 # 中英文对照，英语词汇 txt
 
